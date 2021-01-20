@@ -1,0 +1,3 @@
+init-hook='import sys; sys.path.append("c:/a/programming/python/spider_blogupdater/src");
+sys.path.append("c:/a/envs/spider3/Lib/site-packages");
+sys.path.append("c:/a/envs/spider3/Lib")'
